@@ -1,4 +1,4 @@
-# 🧬 SchnitzelLMTagger
+# 🧬 OncoPrompt
 
 **From messy medical reports to structured cancer data — powered by open-source LLMs, prompts, and RAG.**
 
