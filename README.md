@@ -54,5 +54,5 @@ Designed for German hospital settings, this tool automates entity recognition fo
 
 ```bash
 git clone https://github.com/your-username/OncoPrompt.git
-cd SchnitzelLMTagger
+cd OncoPrompt
 pip install -r requirements.txt
