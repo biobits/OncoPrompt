@@ -59,7 +59,7 @@ reranker =  SentenceTransformerRerank(
 ## Pipeline Parameter
 _response_mode="simple_summarize"
 _temperature=0.00
-_stk=2 #similarity_top_k
+_stk=4 #similarity_top_k
 _node_postprocessors=[reranker]
 
 
