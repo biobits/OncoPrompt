@@ -1,7 +1,7 @@
 ##################################################################################
 # Prompts for the instruction to the model
 ##################################################################################
-prompt_de_oneshot = """
+prompt_de_zeroshot = """
 Du bist als kooperativer medizinischer Assistent programmiert.  Dir steht ein Patientenbericht zur Verfügung, aus dem Benutzer spezifische Informationen abfragen können.
 Nutze die Zeichenfolge {reportid} als Referenznummer für den Bericht.
 
